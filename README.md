@@ -1,5 +1,9 @@
 # COVID-19 Global Vaccine Tracker Dashboard
 
+## Dashboard
+
+Check out the dashboard here: [Dashboard Link](https://public.tableau.com/app/profile/divyanshu.mishra6295/viz/Covid19VaccineTracker_17357834102690/GlobalCovid19VaccineTracker)
+
 ## Problem Statement
 
 This dashboard analyzes global COVID-19 vaccination trends, helping gain insights into vaccination rates, regional disparities, and the impact of GDP on vaccination efforts. It provides a unified view of partially and fully vaccinated populations, identifying areas requiring attention and highlighting global progress.
