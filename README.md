@@ -16,7 +16,7 @@ The dashboard empowers decision-makers by presenting clear, actionable visualiza
 
 - **Step 2:** Performed ETL (Extract, Transform, Load):
   - Extracted raw data.
-  - Transformed the dataset using Python (Pandas) and Excel to clean, validate, and format the data.
+  - Transformed the data by using Excel to clean, validate, and format the data.
   - Loaded the processed data into Tableau for visualization.
 
 - **Step 3:** Designed interactive visualizations in Tableau:
